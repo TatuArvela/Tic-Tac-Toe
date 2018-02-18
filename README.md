@@ -1,2 +1,2 @@
 # tic-tac-toe
-A brutalist tic-tac-toe game made with Unity
+A brutalist tic-tac-toe game made with Unity.
